@@ -1,1 +1,24 @@
-
+html {
+    background-color: #262626;
+}
+body {
+    border: 5px;
+    border-color: #ff0000;
+    border-style: outset;
+    margin: 1px;
+    background-color: #80ccff;
+}
+h3 {
+    margin-top: 3px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 160%;
+    font-family: cursive;
+}
+p {
+    padding-left: 8px;
+    padding-right: 8px;
+    font-family: candara;
+    font-size: 104%;
+    text-indent: 25px;
+}
